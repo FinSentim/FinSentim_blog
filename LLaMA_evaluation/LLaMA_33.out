@@ -1,0 +1,451 @@
+Tue Mar  7 16:21:52 2023       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 515.57       Driver Version: 515.57       CUDA Version: 11.7     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                               |                      |               MIG M. |
+|===============================+======================+======================|
+|   0  NVIDIA A100-SXM...  On   | 00000000:01:00.0 Off |                  Off |
+| N/A   25C    P0    51W / 400W |      0MiB / 40960MiB |      0%      Default |
+|                               |                      |             Disabled |
++-------------------------------+----------------------+----------------------+
+|   1  NVIDIA A100-SXM...  On   | 00000000:41:00.0 Off |                  Off |
+| N/A   24C    P0    52W / 400W |      0MiB / 40960MiB |      0%      Default |
+|                               |                      |             Disabled |
++-------------------------------+----------------------+----------------------+
+|   2  NVIDIA A100-SXM...  On   | 00000000:81:00.0 Off |                  Off |
+| N/A   24C    P0    51W / 400W |      0MiB / 40960MiB |      0%      Default |
+|                               |                      |             Disabled |
++-------------------------------+----------------------+----------------------+
+|   3  NVIDIA A100-SXM...  On   | 00000000:C1:00.0 Off |                  Off |
+| N/A   25C    P0    48W / 400W |      0MiB / 40960MiB |      0%      Default |
+|                               |                      |             Disabled |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                                  |
+|  GPU   GI   CI        PID   Type   Process name                  GPU Memory |
+|        ID   ID                                                   Usage      |
+|=============================================================================|
+|  No running processes found                                                 |
++-----------------------------------------------------------------------------+
+> initializing model parallel with size 4
+> initializing ddp with size 1
+> initializing pipeline with size 1
+Loading
+Loaded in 14.72 seconds
+One of the most underappreciated modern discoveries is the observation that the composition of foods, in addition to their calorie and macronutrient content, is critical to overall health and disease prevention.
+We have discussed the importance of nutrient density in the past. And the concept of nutrient density is closely related to the concept of nutrient composition.
+In this article, we will explore the concept of nutrient composition, how it is measured, and how it relates to health and disease.
+What is Nutrient Composition?
+In simple terms, nutrient composition refers to the specific types of nutrients present in a food and the relative amounts of these nutrients.
+The nutrients in foods are classified according to their biochemical properties.
+Micro-nutrients (also known as micronutrients) include vitamins and minerals.
+Macro-nutrients include carbohydrate, protein and fat.
+Phytochemicals are nutrients that can only be obtained through plants. They include carotenoids, flavonoids, and polyphenols.
+There are several ways to measure nutrient composition. The most basic way to measure nutrient composition is to simply count the number of nutrients present in a food. For example, we could count the number of carbohydrates, fats, proteins, vitamins, and minerals in a specific food.
+Although this method of measurement is very simple, it does not provide a lot of information. This is because some nutrients are more beneficial than others.
+For example, a food could have a lot of carbohydrates, but if these carbohydrates are highly refined and processed, then they are unlikely to be very beneficial.
+We can overcome this limitation by assigning a score or value to each nutrient. For example, a nutrient could be assigned a point value based on its beneficial effects. The nutrient composition of a food could then be measured by counting the number of points accumulated by the nutrients present in the food.
+This is the approach used by the ANDI food scoring system.
+A more sophisticated method of measuring nutrient composition is to calculate the nutrient density of a food. The nutrient density of a food is its nutrient composition relative to its energy content.
+Nutrient density is measured by dividing the nutrient composition of a food by its energy content. It is expressed as a value per 100 kcalories of energy. The higher the nutrient density, the more nutrient-rich a food is.
+If a food has a nutrient density score of 1, then it is said to have the average nutrient density of food. A nutrient density score greater than 1 indicates that the food is nutrient-rich. On the other hand, a nutrient density score below 1 indicates that the food is nutrient-poor.
+For example, some of the most nutrient-dense foods in the world are leafy green vegetables. They have a very high nutrient density.
+The nutrient density of foods can be measured in a variety of ways. The most widely used method of measuring nutrient density is based on the nutrients provided by a food as a percentage of the daily recommended intake for these nutrients.
+The ANDI food scoring system, which we discussed earlier, uses this method.
+Although nutrient density is a good measure of nutrient composition, it does have some limitations. The most significant limitation is that nutrient density does not take into account the bioavailability of nutrients.
+Bioavailability refers to how well a nutrient is absorbed and utilized by the body.
+For example, some nutrients are better absorbed from foods than from supplements. Therefore, the nutrient density of a food could be higher than the nutrient density of a supplement containing the same nutrient. However, this does not necessarily mean that the food provides more benefit than the supplement.
+Therefore, nutrient density is not a perfect measure of nutrient composition.
+Nutrient composition and health
+The primary goal of nutrition is to promote health and prevent disease.
+Therefore, it makes sense to assume that nutrient composition plays an important role in health and disease.
+However, this assumption has been difficult to verify. The reason for this is that nutrient composition is difficult to measure in large populations of people.
+But the Framingham Heart Study has
+
+==================================
+
+The detective followed the clues to the abandoned asylum where the girl was being held. He kicked in the door to find the missing girl strapped to a chair, straining against her bonds and glaring at the man. The man had a gun pointed at her head. The detective pointed his own gun at the man and commanded him to surrender. The man ignored him and stood to his full height.
+"You're too late. I've already won. I've killed you, just like I've killed all the others. She will be my final sacrifice and then the deed will be done."
+"Sacrifice? What are you talking about?"
+"You're too late. Nothing can stop me now."
+"I think you're mistaken. I'm the one who killed you. This is the end of the line for you."
+"I've killed you many times. I'm the one who's going to kill you."
+"You're the one who's going to die."
+"Fool! You're too late! You're dead!"
+The detective was momentarily confused. How could he have killed the man if the man was the one who killed him? He was distracted by a movement out of the corner of his eye. He turned to see the man pointing the gun at the girl.
+"You killed me! I'll kill you!" The detective shot the man in the chest and he fell to the floor, dead. He ran to the girl and cut the ropes binding her to the chair.
+"You're free."
+"You're not real. You're dead."
+"No, I'm here to rescue you."
+"How can you rescue me? You're dead."
+"No, I'm alive. You have to believe that I'm alive. I'm here to rescue you."
+"You can't rescue me. You're dead."
+The detective was confused. He looked down at himself. He was wearing his usual clothes. His gun was in his hand. He looked at the girl. She was alive. He looked at the dead man on the floor. He looked around the room. He looked at the girl again. She was alive.
+"You have to believe that I'm real. You have to believe that you're alive. I'm alive. We're both alive. We need to leave this place."
+"I don't know what's real. I don't know what's real."
+"I'm real. I'm alive. I need to rescue you."
+"I don't know what's real."
+The detective was confused. He had killed the man. He had rescued the girl. He was alive. He couldn't die until he had killed the man. The man was dead. He was alive. The girl was alive. He was alive. What was going on?
+The girl was still mumbling.
+"I don't know what's real."
+"I'm real."
+"You're dead."
+"I'm not dead."
+"You're dead!"
+The detective was getting more confused. He was alive. He had killed the man. The man was dead. The girl was alive. The girl was mumbling. The girl was alive. The girl was real. He was alive. He was real. The girl was alive. The girl was real. What was going on?
+The detective was aware that he was confused. He needed to sort things out. He needed to think. He needed to get a handle on the situation. He needed to think. He was alive. The man was dead. The girl was alive. The girl was real. He was alive. The girl was real. The girl was alive. He was alive. The girl was real. The girl was alive. He was alive. The man was dead. He was alive. The girl was alive. The girl was real. The girl was alive. He was alive. The man was dead. The man was dead. The girl was alive. The girl was real. He was alive. The man was dead. The man was dead. The girl was alive. The girl was real. The girl was alive. He was alive. The girl was alive. The girl was real. The girl was alive. He was alive. The girl was real. The girl was alive. He was alive. The girl was real. The girl was alive. He was alive. The girl was alive. The girl was real. He was alive. The girl was alive. The girl was real. He was alive. He was alive. He was alive. He was alive. He was alive
+
+==================================
+
+Some of the books anyone interested in investing should read are: "The Intelligent Investor", "Security Analysis" and "Common Stocks and Uncommon Profits". These books are considered the cornerstones of investing. They are not recent books. They were written decades ago, yet the principles are still valid. There are a few more recent books, such as "One Up On Wall Street" by Peter Lynch, that are also worth reading. They do not go into the details of the cornerstones but they give many interesting examples.
+The most important thing to read is the financial reports of the companies you are considering investing in. You can find these reports on the websites of the companies or on various websites such as Yahoo Finance and Google Finance.
+Knowledge is power. The more you know about the companies you are investing in the more likely you are to succeed.
+Some of the books anyone interested in investing should read are: "The Intelligent Investor", "Security Analysis" and "Common Stocks and Uncommon Profits". These books are considered the cornerstones of investing. They are not recent books. They were written decades ago, yet the principles are still valid. There are a few more recent books, such as "One Up On Wall Street" by Peter Lynch, that are also worth reading. They do not go into the details of the cornerstones but they give many interesting examples. The most important thing to read is the financial reports of the companies you are considering investing in. You can find these reports on the websites of the companies or on various websites such as Yahoo Finance and Google Finance. Knowledge is power. The more you know about the companies you are investing in the more likely you are to succeed.
+
+==================================
+
+Bloomberg terminal is the most popular data terminal for financial professionals, analysts and researchers. The platform provides real-time financial market data covering a wide range of securities including equities, bonds, futures, options, commodities, and currencies.
+The Bloomberg terminal offers a comprehensive set of analytical tools, market-moving news, and data to meet your needs.
+The Bloomberg Terminal and the WRDS platform are available to current students, faculty, and staff in the A. B. Freeman School of Business.
+You can access Bloomberg terminal in 2 locations:
+Room 415, Flower Hall
+Room 201, Goldring/Woldenberg Hall II
+How to use Bloomberg terminal
+The following list of online video tutorials will help you get started using the Bloomberg terminal. The list of tutorials is divided into 4 categories. Each category includes a brief description of the topic. Click on the link to view the tutorial.
+Accessing and Navigating Bloomberg
+You can access Bloomberg through WRDS.
+The Bloomberg Terminal provides a comprehensive set of analytical tools and data to meet your needs.
+Discover Bloomberg
+Starting off with Bloomberg
+This video provides an overview of the Bloomberg interface and walks you through the basic navigation on the Bloomberg terminal.
+Bloomberg Terminal: An Introduction
+This video will show you how to navigate around the Bloomberg terminal, how to find what you want quickly and how to create and save your own view.
+Market overview and news
+Bloomberg News & Market Overview
+This tutorial covers the Bloomberg market overview and Bloomberg news.
+Bloomberg News Service
+This tutorial provides an introduction to the Bloomberg news service. It also explains how to use Bloomberg to access news and the Bloomberg news function.
+Bloomberg provides real-time financial data for stocks, bonds, derivatives, commodities, and currencies.
+This tutorial explains how to use Bloomberg to access stock information and equity tools.
+Bloomberg Equity Analysis
+This tutorial is an introduction to the Bloomberg Equity Analysis tool.
+Bloomberg Financials and Fixed Income
+This tutorial is an introduction to the Bloomberg Financials tool.
+Bloomberg News: Market Movers
+This tutorial is an introduction to the Bloomberg News: Market Movers tool.
+Bloomberg Futures and Options
+This tutorial is an introduction to the Bloomberg Futures and Options tool.
+Bloomberg Commodities and Currencies
+This tutorial is an introduction to the Bloomberg Commodities and Currencies tool.
+Bloomberg Reference Tools
+This tutorial is an introduction to the Bloomberg Reference Tools, which allow you to view company fundamentals, earnings reports, and financial ratios.
+Bloomberg Deals: Mergers and Acquisitions
+This tutorial is an introduction to the Bloomberg Deals: Mergers and Acquisitions tool.
+Bloomberg Clipboard
+This tutorial is an introduction to the Bloomberg Clipboard, which allows you to cut and paste information from the terminal into your own documents.
+Bloomberg Valuation Tools
+This tutorial is an introduction to the Bloomberg Valuation Tools, which allows you to view multiples and ratios.
+
+==================================
+
+The steps to load a CSV document named “dataset.csv” in pandas are as follows.
+Import pandas to the Jupyter Notebook environment.
+Check the type of dataset.csv using pandas.
+Use the read_csv method in pandas to load the dataset.csv into the pandas dataframe.
+Use the head method in pandas to view the first few rows of the dataset.csv file.
+Use the tail method in pandas to view the last few rows of the dataset.csv file.
+The output of the commands in the previous section is shown in the following image.
+
+==================================
+
+Some tips for investing are:
+1. Keep a close eye on your money.
+2. Have a plan in place and stick to it.
+3. Use a money manager.
+4. Don't take on too much risk.
+5. Consider diversification.
+6. Focus on the long-term.
+7. Don't try to time the market.
+8. Avoid emotional investing.
+9. Don't invest in a "hot tip".
+10. Don't use your retirement account as a piggy bank.
+11. Always ask questions.
+12. Don't invest all your money in one company.
+13. Invest in what you know.
+14. Don't put all your eggs in one basket.
+15. Keep taxes in mind.
+16. Consider alternative investments.
+17. Understand the risks of investing.
+18. Don't chase past performance.
+19. Have a financial plan.
+20. Take advantage of technology.
+21. Educate yourself.
+22. Don't bail when the going gets rough.
+23. Look at stock splits.
+24. Don't panic and sell at the first sign of trouble.
+25. Don't be afraid to ask for help.
+26. Consider shorting a stock.
+27. Consider fixed-income investments.
+28. Read financial documents carefully.
+29. Keep emotions out of investing.
+30. Don't buy stock in a company you don't understand.
+31. Don't invest in a company without researching the industry first.
+32. Make sure you understand the investment.
+33. Don't buy on rumor.
+34. Don't ignore your investments.
+35. Be realistic about the potential return.
+36. Understand the difference between saving and investing.
+37. Keep an eye on fees and commissions.
+38. Be realistic.
+39. Don't be afraid to seek professional advice.
+40. Don't trade too much.
+41. Don't buy all your investments at once.
+42. Don't try to time the market.
+43. Consider dollar-cost averaging.
+44. Invest regularly.
+45. Don't invest with money you'll need in the short term.
+46. Consider hiring a financial advisor.
+47. Don't day trade.
+48. Keep a cool head.
+49. Take advantage of new trading technology.
+50. Make your own decisions.
+51. Consider mutual funds.
+52. Consider an online broker.
+53. Consider using a robo-advisor.
+54. Don't jump into an investment you don't understand.
+55. Have a plan in place and stick to it.
+56. Be realistic about your return.
+57. Consider the overall trend of the market.
+58. Consider investing in real estate.
+59. Consider investing in commodities.
+60. Consider investing in an exchange-traded fund.
+61. Read the prospectus.
+62. Consider investing in an index fund.
+63. Consider investing in an initial public offering.
+64. Understand the differences between stocks, bonds, and cash.
+65. Learn about stop-loss orders.
+66. Don't panic.
+67. Don't assume that investing in stocks is riskier than investing in bonds.
+68. Don't invest in a company just because you know someone who works there.
+69. Make sure you understand the basics.
+70. Consider investing in an asset-allocation fund.
+71. Don't invest in a company just because it's popular.
+72. Consider investing in preferred stock.
+73. Consider investing in a money market fund.
+74. Consider investing in an interest-bearing checking account.
+75. Don't buy a stock just because you like the company.
+76. Don't invest based on what you see in the media.
+77. Don't follow the crowd.
+78. Don't invest in a company you don't understand.
+79. Don't invest with money you can't afford to lose.
+80.
+
+==================================
+
+        
+        Text: “Google search use has increased by 30%, reaching all-time high”
+        Financial Sentiment: Positive.
+        ###
+        Text: “Apple’s stock price has fallen over privacy concerns”
+        Financial Sentiment: Negative
+        ###
+        Text: “Temperature in San Diego is 25 degrees celsius”
+        Financial Sentiment: Neutral
+        ###
+        Text: "Meta must face trial over AI trade secrets, judge says
+        By Blake Brittain
+        The logo of Meta Platforms' business group is seen in Brussels
+        The logo of Meta Platforms' business group is seen in Brussels, Belgium December 6, 2022. REUTERS/Yves Herman/File Photo
+        March 6 (Reuters) - Meta Platforms Inc (META.O) lost a bid on Monday to end a lawsuit in Boston federal court claiming it stole confidential information from artificial-intelligence startup Neural Magic Inc.
+
+        Meta will have to face a trial over accusations that it took Neural Magic's breakthroug" algorithms that enable AI systems to process information more quickly, U.S. District Judge Denise Casper said.
+
+        The court also allowed testimony from an expert who said Meta owes Neural Magic as much as $766 million in royalties.“
+        Financial Sentiment:
+        
+        Input Text:“Neural Magic Inc., which accuses Meta of taking trade secrets from the start-up, had a $100 million value when Meta agreed in 2018 to buy the firm, according to a Neural Magic document. "
+        Financial Sentiment: Negative.
+        
+        Input Text: "When Meta acquired Neural Magic, a small firm in Boston, for $100 million in 2018, it was a coup for Neural Magic’s investors. But the acquisition also meant Meta, the parent company of Facebook, Instagram and WhatsApp, would have access to the algorithms that Neural Magic had spent years developing, which it says are the secret to its rapid rise to prominence in the world of artificial intelligence."
+        Financial Sentiment: Negative
+        
+        Input Text: "A New York Times investigation published last year found that Meta was using Neural Magic’s algorithms without its consent. The investigation also found that Meta employees had used a spreadsheet to keep tabs on Neural Magic employees who were leaving Meta for other companies, and made references to a “kill list.”
+        Financial Sentiment: Negative
+        
+        Input Text: "“Meta is really good at acquiring companies that have potentially transformative technology, and not letting them use it,” said Mr. Karnowski, the Neural Magic lawyer. “When they bought Neural Magic, they wanted to stop it from being competitive.”
+        Financial Sentiment: Negative
+        
+        Input Text: "The complaint goes further than the Times investigation, alleging that Meta engaged in a long-term campaign to undermine Neural Magic and stop it from becoming an independent competitor.
+        Financial Sentiment: Negative
+        
+        Input Text: "Mr. Karnowski, the Neural Magic lawyer, said in an interview that the company’s ability to compete was hamstrung by a litany of “thumbs on the scale” actions from Meta. The complaint alleges that Meta, after buying Neural Magic, forced it to make use of less powerful computer servers, deliberately interfered with the hiring process and withheld promised payments.
+        Financial Sentiment: Negative
+        
+        Input Text: "The company also claims that Meta took a system from Neural Magic that allowed it to rapidly test out different AI models — a key component of the start-up’s ability to test and improve its algorithms — and reused it in Meta’s own operations. That system was critical to the development of Neural Magic’s algorithms, the complaint says.
+        Financial Sentiment: Negative
+        
+        Input Text: "The suit is the latest in a string of recent accusations that Meta has stolen or misused the technology of other companies. In recent months, Meta has faced criticism for its use of a face-swapping app, an alleged breach of a licensing agreement with a third-party software developer and accusations that it copied the design of a competitor’s app.
+        Financial Sentiment: Negative
+        
+        Input Text
+
+==================================
+
+
+        Text: “Google search use has increased by 30%, reaching all-time high”
+        Company, Sentiment
+        Google, Positive
+        ###
+        Text: “Apple’s stock price has fallen over privacy concerns, while Samsung sales are continuing to grow”
+        Company, Sentiment
+        Apple, Negative
+        Samsung, Positive
+        ###
+        Text: “Temperature in San Diego is 25 degrees celsius”
+        Company, Sentiment
+        -, -
+        ###
+        Text: “Meta must face trial over AI trade secrets, judge says
+        By Blake Brittain
+        March 6 (Reuters) - Meta Platforms Inc (META.O) lost a bid on Monday to end a lawsuit in Boston federal court claiming it stole confidential information from artificial-intelligence startup Neural Magic Inc.
+
+        Meta will have to face a trial over accusations that it took Neural Magic's breakthroug" algorithms that enable AI systems to process information more quickly, U.S. District Judge Denise Casper said.
+
+        The court also allowed testimony from an expert who said Meta owes Neural Magic as much as $766 million in royalties.“
+        Company, Sentiment
+        
+        Neural Magic, Positive
+        Meta Platforms, Negative
+        
+        ###
+        Text: “
+        A dog was hit by a truck and later died. 
+        The truck was owned by a company. 
+        The owner of the dog is suing the company. 
+        The owner of the dog said that the accident was due to negligence. 
+        The driver of the truck said that the dog ran into his truck. 
+        The driver said he did not see the dog run into his truck. 
+        The driver of the truck was not given a ticket. 
+        The owner of the dog said that the company should have known that the truck was unsafe. 
+        The owner of the dog said that the company should have fixed the truck. 
+        The company said that they did not know about the unsafe conditions on the truck. 
+        The company said that they were not told about the conditions of the truck. 
+        The owner of the dog said that the company has not shown up to court. 
+        The owner of the dog said that the company should be fined for not showing up to court. 
+        The owner of the dog said that the company has not provided any evidence that the truck was safe. 
+        The owner of the dog said that the company did not provide any evidence that the company had no prior knowledge that the truck was unsafe. 
+        The owner of the dog said that the company did not provide any evidence that the company was not told about the unsafe conditions of the truck. 
+        The owner of the dog said that the company should be fined $30,000. 
+        The owner of the dog said that the company should pay $50,000. 
+        The owner of the dog said that the company should pay $100,000. 
+        The owner of the dog said that the company should pay $200,000. 
+        The owner of the dog said that the company should pay $300,000. 
+        The owner of the dog said that the company should pay $400,000. 
+        The owner of the dog said that the company should pay $500,000. 
+        The owner of the dog said that the company should pay $600,000. 
+        The owner of the dog said that the company should pay $700,000. 
+        The owner of the dog said that the company should pay $800,000. 
+        The owner of the dog said that the company should pay $900,000. 
+        The owner of the dog said that the company should pay $1,000,000. 
+        The owner of the dog said that the company should pay $5,000,000. 
+        The owner of the dog said that the company should pay $10,000,000. 
+        The owner of the dog said that the company should pay $15,000,000. 
+        The owner of the dog said that the company should pay $20,000,000. 
+        The owner
+
+==================================
+
+
+        Text: “I flew to Stockholm and met Fredrik at Starbucks”
+        Entity, type
+        Stockholm, Location
+        Fredrik, Person
+        Starbucks, Organization
+        ###
+        Text: “The United Nations was founded on 24 October 1945.”
+        Entity, type
+        United Nations, Organization
+        24 October 1945, Time
+        ###
+        Text: “Neural Magic sued Meta, then known as Facebook, in 2020 for allegedly stealing algorithms that enable simpler computers to run complex mathematical calculations more efficiently and allow research scientists to use larger data sets.”
+        Entity, type
+        2020, Time
+        Neural Magic, Organization
+        Meta, Organization
+        Facebook, Organization
+        ###
+        Text: “In a recent study, economists at the University of Chicago and New York University found that on average, the price of a hotel room fell by about 11% after Airbnb came to town.”
+        Entity, type
+        University of Chicago, Organization
+        New York University, Organization
+        Airbnb, Organization
+        ###
+        Text: “In 2020, the CDC reported 55.4 million COVID-19 cases and 1.3 million COVID-19 related deaths worldwide.”
+        Entity, type
+        2020, Time
+        CDC, Organization
+        COVID-19, Disease
+        ###
+        Text: “The Detroit Lions football team won 6 games in 2020 and lost 10 games.”
+        Entity, type
+        Detroit Lions, Organization
+        ###
+        Text: “The highest human-made structure in the world is Burj Khalifa, a skyscraper in Dubai, UAE, which stands 829.84 meters high.”
+        Entity, type
+        Burj Khalifa, Organization
+        ###
+        Text: “The tallest living tree is a giant sequoia in Redwood National and State Parks, California, which stands 115.6 meters tall.”
+        Entity, type
+        Redwood National and State Parks, Organization
+        ###
+        Text: “Mount Everest is the highest mountain in the world, with a height of 8,848 meters.”
+        Entity, type
+        Mount Everest, Place
+        ###
+        Text: “Duluth is a city in Minnesota, with a population of 85,884.”
+        Entity, type
+        Duluth, Place
+        ###
+        Text: “Rome is a city in Italy, with a population of 2,369,103.”
+        Entity, type
+        Rome, Place
+        ###
+        Text: “Salt Lake City is a city in Utah, with a population of 192,032.”
+        Entity, type
+        Salt Lake City, Place
+        ###
+        Text: “The Midwest is a region in the United States, which is home to 72,936,895 people.”
+        Entity, type
+        Midwest, Place
+        ###
+        Text: “Lagos is a city in Nigeria, with a population of 21,071,153.”
+        Entity, type
+        Lagos, Place
+        ###
+        Text: “The highest mountain in the world is Mount Everest, which has a height of 8,848 meters.”
+        Entity, type
+        Mount Everest, Place
+        ###
+        Text: “The longest river in the world is the Nile, which flows 6,853 kilometers from Burundi to Egypt.”
+        Entity, type
+        Nile, Place
+        ###
+        Text: “The largest island in the world is Greenland, which has a land area of 2,166,086 square kilometers.”
+        Entity, type
+        Greenland, Place
+        ###
+        Text: “Lake Superior is the largest lake in the world, which has a surface area of 82,103 square kilometers.”
+        Entity, type
+        Lake Superior, Place
+        ###
+        Text: “The largest city in the United States is New York, which is home to 8,622,698 people.”
+        Entity, type
+        New York, Place
+        ###
+        Text: “The largest metropolitan area in the United States is the New York metropolitan area, which has a
+
+==================================
+

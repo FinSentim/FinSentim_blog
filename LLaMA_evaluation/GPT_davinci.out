@@ -1,0 +1,131 @@
+----------------------------------
+Prompt:  One of the most underappreciated modern discoveries is
+----------------------------------
+ the use of artificial intelligence (AI) in everyday life. AI has been used to automate mundane tasks, such as scheduling appointments, managing customer service inquiries, and even driving cars. AI can also be used to improve decision-making processes, such as in healthcare, finance, and marketing. AI can also be used to create more personalized experiences for customers, such as in e-commerce and online advertising. AI is also being used to create more efficient and accurate systems for data analysis and machine learning. AI is revolutionizing the way we interact with technology and is quickly becoming an integral part of our lives.
+----------------------------------
+Prompt:  The detective followed the clues to the abandoned
+----------------------------------
+ warehouse. He entered the building and searched for any evidence that might lead him to the suspect. He found a piece of paper with the suspect's name and address written on it. He then contacted the police and they were able to apprehend the suspect.
+----------------------------------
+Prompt:  Some of the books anyone interested in investing should read are:
+----------------------------------
+
+
+1. The Intelligent Investor by Benjamin Graham
+2. The Little Book of Common Sense Investing by John C. Bogle
+3. The Essays of Warren Buffett by Lawrence A. Cunningham
+4. Security Analysis by Benjamin Graham and David Dodd
+5. Rich Dad Poor Dad by Robert Kiyosaki
+6. The Warren Buffett Way by Robert G. Hagstrom
+7. The Bogleheads’ Guide to Investing by Taylor Larimore, Mel Lindauer, and Michael LeBoeuf
+8. A Random Walk Down Wall Street by Burton G. Malkiel
+9. The Millionaire Next Door by Thomas J. Stanley and William D. Danko
+10. The Four Pillars of Investing by William J. Bernstein
+----------------------------------
+Prompt:  Bloomberg terminal is
+----------------------------------
+ a computer system provided by the financial data vendor Bloomberg L.P. that enables professionals in the financial service sector and other industries to access the Bloomberg Professional service through which users can monitor and analyze real-time financial market data and place trades on the electronic trading platform. The terminal also provides news, price quotes, and messaging across its proprietary secure network.
+----------------------------------
+Prompt:  The steps to load a CSV document named “dataset.csv” in pandas are
+----------------------------------
+ as follows:
+
+1. Import the pandas library:
+
+import pandas as pd
+
+2. Load the CSV document into a pandas DataFrame:
+
+df = pd.read_csv('dataset.csv')
+
+3. View the DataFrame:
+
+df.head()
+----------------------------------
+Prompt:  Some tips for investing are
+----------------------------------
+:
+
+1. Start small and diversify: Investing can be intimidating, so start small and diversify your investments. Investing in a variety of different asset classes, such as stocks, bonds, mutual funds, and real estate, can help reduce your risk and increase your potential for returns.
+
+2. Research and understand the markets: Before investing, it’s important to understand the markets and the different types of investments available. Researching the different asset classes, understanding the risks and rewards associated with each, and learning about the different strategies used by investors can help you make informed decisions.
+
+3. Set goals and create a plan: Before investing, it’s important to set goals and create a plan. Consider your risk tolerance, time horizon, and financial goals when creating your plan.
+
+4. Monitor your investments: Once you’ve invested, it’s important to monitor your investments. Regularly reviewing your portfolio and making adjustments as needed can help you stay on track and reach your financial goals.
+
+5. Invest for the long-term: Investing for the long-term can help you maximize your returns and minimize your risk. Investing for the long-term also allows you to take advantage of compounding returns, which can help you reach your financial goals faster.
+----------------------------------
+Prompt:          
+        Text: “Google search use has increased by 30%, reaching all-time high”
+        Financial Sentiment: Positive.
+        ###
+        Text: “Apple’s stock price has fallen over privacy concerns”
+        Financial Sentiment: Negative
+        ###
+        Text: “Temperature in San Diego is 25 degrees celsius”
+        Financial Sentiment: Neutral
+        ###
+        Text: "Meta must face trial over AI trade secrets, judge says
+        By Blake Brittain
+        The logo of Meta Platforms' business group is seen in Brussels
+        The logo of Meta Platforms' business group is seen in Brussels, Belgium December 6, 2022. REUTERS/Yves Herman/File Photo
+        March 6 (Reuters) - Meta Platforms Inc (META.O) lost a bid on Monday to end a lawsuit in Boston federal court claiming it stole confidential information from artificial-intelligence startup Neural Magic Inc.
+
+        Meta will have to face a trial over accusations that it took Neural Magic's breakthroug" algorithms that enable AI systems to process information more quickly, U.S. District Judge Denise Casper said.
+
+        The court also allowed testimony from an expert who said Meta owes Neural Magic as much as $766 million in royalties.“
+        Financial Sentiment:
+        
+----------------------------------
+ Negative
+----------------------------------
+Prompt:  
+        Text: “Google search use has increased by 30%, reaching all-time high”
+        Company, Sentiment
+        Google, Positive
+        ###
+        Text: “Apple’s stock price has fallen over privacy concerns, while Samsung sales are continuing to grow”
+        Company, Sentiment
+        Apple, Negative
+        Samsung, Positive
+        ###
+        Text: “Temperature in San Diego is 25 degrees celsius”
+        Company, Sentiment
+        -, -
+        ###
+        Text: “Meta must face trial over AI trade secrets, judge says
+        By Blake Brittain
+        March 6 (Reuters) - Meta Platforms Inc (META.O) lost a bid on Monday to end a lawsuit in Boston federal court claiming it stole confidential information from artificial-intelligence startup Neural Magic Inc.
+
+        Meta will have to face a trial over accusations that it took Neural Magic's breakthroug" algorithms that enable AI systems to process information more quickly, U.S. District Judge Denise Casper said.
+
+        The court also allowed testimony from an expert who said Meta owes Neural Magic as much as $766 million in royalties.“
+        Company, Sentiment
+        
+----------------------------------
+ Meta Platforms Inc, Negative
+         Neural Magic Inc, Positive
+----------------------------------
+Prompt:  
+        Text: “I flew to Stockholm and met Fredrik at Starbucks”
+        Entity, type
+        Stockholm, Location
+        Fredrik, Person
+        Starbucks, Organization
+        ###
+        Text: “The United Nations was founded on 24 October 1945.”
+        Entity, type
+        United Nations, Organization
+        24 October 1945, Time
+        ###
+        Text: “Neural Magic sued Meta, then known as Facebook, in 2020 for allegedly stealing algorithms that enable simpler computers to run complex mathematical calculations more efficiently and allow research scientists to use larger data sets.”
+        Entity, type
+        
+----------------------------------
+ Neural Magic, Organization
+         Meta, Organization
+         Facebook, Organization
+         2020, Time
+         algorithms, Thing
+         mathematical calculations, Thing
